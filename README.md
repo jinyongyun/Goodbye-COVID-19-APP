@@ -38,4 +38,8 @@ Alamofire에선 요청에 대한 응답을 response 메소드를 이용해서 �
 AF.request("http://httpbin.org.get").responseJSON{ response in debugPrint(response)}<br>
 reponse메소드는 다음과 같이 request 메소드와 chaining하여 사용된다.<br>
 <br>
+## 완성!
+![스크린샷 2022-07-06 오후 8 30 03](https://user-images.githubusercontent.com/102133961/177540394-e789a431-194e-4457-b385-6b85449f2abb.jpg)
+![스크린샷 2022-07-06 오후 8 30 32](https://user-images.githubusercontent.com/102133961/177540478-02eac576-03a7-43bf-8bfe-611d4a864f64.jpg)
+
  
